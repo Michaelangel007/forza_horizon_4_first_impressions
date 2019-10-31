@@ -184,6 +184,10 @@ It sounds like they are using dynamic environment audio. That's pretty cool!  Ju
 
 So is FH4 perfect? Ha! No.
 
+* UI is still a clusterfuck.
+
+  * ![UI Flow](pics/ui_menu_flow.png)
+
 * You can't skip the company logo movies.  **sigh**  Do I **really** need to see this shit EVERY FUCKING TIME I boot the game???
 
 * Going through the single player tutorial had TONS of options on the map.  However as you progress the seasons automatically change and you CAN'T do those events -- or so I thought.  The game does **not communicate** with you that they WILL be available once you complete the tutorial.
@@ -196,6 +200,8 @@ So is FH4 perfect? Ha! No.
   * Skip forward/backward wasn't working for me. WTF?
 
 * Restarting a mission reset the radio station. Extremely annoying. As a temporary work-around I turned the radio OFF. 
+
+* [x] Wheel support at [launch](https://forums.forzamotorsport.net/turn10_postst132935p2_-ANSWERED---XBOX--FH4-Unplayable-with-Logitech-G920-Wheel.aspx?=) was broken.  Thankfully that is fixed now. (Annnd this is why you don't buy games on day 1 -- you always wait a few months for the bugs to get fixed.)
 
 # GTS vs FH4
 
