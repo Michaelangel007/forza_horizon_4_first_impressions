@@ -40,7 +40,7 @@ Now I've never played a Forza game before so Forza Horizon 4 is my first introdu
 
 Compared to GTS (Gran Turismo Sport) these are the things I've having an absolute blast with:
 
-* better graphics
+* amazing detailed graphics -- reflection quality, shadow quality, liveries.
 * open world to explore
 * **dynamic** day-night cycle
 * **seasonal weather**
@@ -60,7 +60,18 @@ I think part of this is due to the high fidelity -- extremely high polygon count
 
 # Graphics
 
-Holy sheep -- look at the **draw distance!**
+Holy sheep -- look at the **draw distance** on this puppy!
+
+TODO: day picturee
+
+Here is the same scene during the night.
+
+TODO: night picture
+
+You can see the indivual lights!
+
+YES! They have **dynamic** real-time day-night cycles.
+
 
 It looks like they are using dynamic tesselation for the environment.
 
@@ -69,15 +80,90 @@ It looks like they are using dynamic tesselation for the environment.
 * ![LOD far](pics/lod_far.png)
 * ![LOD near](pics/lod_near.png)
 
+The level of fidelity is amazing.  You can even see INTO the apartments.
+
+TODO: apt picture
+
 # Gameplay
+
+In a shared open world the first question people probably ask is:
+
+Q. _How does the game handle griefers?_
+
+A. **It ghosts them out!**
+
+They can't wreck your fun!  THAT's the perfect response to how you handle strangers: Make them cosmetic.
+
+
+## World Events
+
+Guild Wars 2 helped popularized **dynamic world events.**  FH4 has "Forzathon" events that start on the hour every hour.  You have 3 tasks you try to complete.  Each stage gives you 20 Forzathon Points.
+
+
+FH4 puts the FUN in racing:
+
+* Race against a hovercraft!
+* Participate in _The Halo Experience._
+
+
+
+## Dynamic Seasons
+
+Once you complete the tutorial you are thrown into "Weekly Season".
+
+
+# Loot-boxes, no, not THAT  kind.
+
+Unfortuntely the word "loot boxes" has become a dirty word due to publisher's greed.
+
+There are TWO kinds of loot-boxes:
+
+* In-game
+* Pay-to-win
+
+Like Vermintide 2, FH4 has **in-game loot boxes** in the form of [Wheelspin](https://forza.fandom.com/wiki/Horizon_Wheelspin) -- a in-game slot machine with a spinning prize reel.  As you play the game you level up and get free wheelspins so it doesn't "cost" anything except time.   Technically you can also buy them with FP, "Forza Points", but the only way to get FP is to take place in Forzathon events (and win.)
+
+Wheelspins are one of the fastest ways to make money.  It is how I was able to get a McLaren Senna on day 1. :-)
+
+It looks like Wheelspins are the ONLY way to earn cosmetics for character customization.
+
+I have no opinion on whether wheelspins are good or bad.
+
 
 # Simulation
 
 Is FH4 a hard-core simulation? No, it is an arcade game.
 
+The problem with "fun" is that it varies from person to person.
+
+* Some people find hard-core realism fun
+* Some people want a balance of realism
+* some people want causal arcade
+
+FH4 like NFS takes the middle-of-the-road approach.
+
+That's not to say it can't be challenging.  You can control:
+
+* Traction
+* ABS
+
+# Drifting
+
+I've been wanting to get into drifing but could never get the "hang" of it due to lack of time.
+
+I finally found THE perfect spot to practise drifting -- on the beach!
+
+TODO: picture of beach
+
+
 #   Wheel vs Controller
 
 The game feels GREAT with a controller.
+
+However the Xbox controller itself feels like cheap shit.  I'm using mine wired so it doesn't have the "hefty" feel to it -- but that seems like a cop-out excuse.  Still, I'm curios so I'll try that out sometime.
+
+
+
 
 # Music
 
@@ -100,6 +186,8 @@ So is FH4 perfect? Ha! No.
 
 * You can't skip the company logo movies.  **sigh**  Do I **really** need to see this shit EVERY FUCKING TIME I boot the game???
 
+* Going through the single player tutorial had TONS of options on the map.  However as you progress the seasons automatically change and you CAN'T do those events -- or so I thought.  The game does **not communicate** with you that they WILL be available once you complete the tutorial.
+
 * The replay system **sucks:**
 
   * You can't save a replay -- you can only export the video from the Xbox dashboard. Really???
@@ -120,4 +208,19 @@ It is the **contrast** of the different games that I want to focus on.
 First off, both are "arcade" / "simcade" racing games.
 
 Second, the focus of the games are different.  There are no real good "open world" driving games on the PS4. No, the Crew 2 doesn't count. See [The Crew 2 Review: Buy, Sale, Rent, Skip](https://www.youtube.com/watch?v=C8u4ihut2Ec) review.
+
+
+# Bottom Line:
+
+I think there is one word that summarizes FH4.
+
+**FUN**
+
+Isn't that what games are supposed to be about? :-)
+
+GTS in comparison seems "clinical".  That's not to say it isn't fun -- it is -- but the _focus_ in GTS is more about Precision. A heritage from the Japanese developer culture.  FH4 is more like an American -- more concerned about looking good and having fun.  I am NOT imply that FH4 focus on Form over Function -- it think it strikes a good balance between the two.
+
+Alright, that's enough raving and ranting. To borrow a catch phrase from [The Critical Drinker](https://www.youtube.com/channel/UCSJPFQdZwrOutnmSFYtbstA)
+
+_"Go away now"_
 
